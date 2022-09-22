@@ -5,7 +5,7 @@ import github from "../assets/github.png";
 import html from "../assets/html.png";
 import javascript from "../assets/javascript.png";
 import react from "../assets/react.png";
-import reactboostrap from "../assets/reactboostrap.png";
+// import reactboostrap from "../assets/reactboostrap.png";
 import tailwind from "../assets/tailwind.png";
 import vue from "../assets/vue.png";
 
@@ -65,10 +65,10 @@ export const techs = [
       title: "Tailwind",
       style: "shadow-blue-500",
     },
-    {
-      id: 10,
-      src: reactboostrap,
-      title: "React Boostrap",
-      style: "shadow-blue-500",
-    }
+    // {
+    //   id: 10,
+    //   src: reactboostrap,
+    //   title: "React Boostrap",
+    //   style: "shadow-blue-500",
+    // }
   ];
